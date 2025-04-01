@@ -1,0 +1,84 @@
+{
+  "feedbacks": [
+    {
+      "name": "Tr1gEr4you",
+      "email": "sgdfg@gfdhgf",
+      "experience": "fsgfed",
+      "ratings": {
+        "usability": 0,
+        "design": 0,
+        "performance": 5,
+        "features": 0,
+        "support": 0
+      },
+      "comments": "sdfg",
+      "suggestions": "gsdf",
+      "category": "general",
+      "timestamp": "2025-04-01T21:17:28.622Z",
+      "id": "1743542248631",
+      "date": "2025-04-01T21:17:28.631Z"
+    },
+    {
+      "name": "Вячеслав",
+      "email": "example@domain.com",
+      "experience": "рпаврповаропав",
+      "ratings": {
+        "usability": 5,
+        "design": 5,
+        "performance": 4,
+        "features": 3,
+        "support": 5
+      },
+      "comments": "Комментарий",
+      "suggestions": "Улучшаем ",
+      "category": "general",
+      "timestamp": "2025-04-01T21:18:55.070Z",
+      "id": "1743542335074",
+      "date": "2025-04-01T21:18:55.074Z"
+    },
+    {
+      "name": "Tr1gEr4you",
+      "email": "KovalevVI21@st.ithub.ru",
+      "experience": "sdfgfdsg",
+      "ratings": {
+        "usability": 0,
+        "design": 0,
+        "performance": 0,
+        "features": 0,
+        "support": 0
+      },
+      "comments": "sdfgdfsg",
+      "suggestions": "dfsgdfsgsdfg",
+      "category": "suggestion",
+      "timestamp": "2025-04-01T21:20:20.895Z",
+      "id": "1743542420898",
+      "date": "2025-04-01T21:20:20.898Z"
+    }
+  ],
+  "comments": [
+    {
+      "text": "dfghdgf",
+      "date": "2025-04-01T21:17:31.208Z",
+      "author": "Анонимный пользователь",
+      "likes": 0,
+      "category": "general",
+      "id": "1743542251208"
+    },
+    {
+      "text": "dsfgsfdgsfd",
+      "date": "2025-04-01T21:20:29.825Z",
+      "author": "Анонимный пользователь",
+      "likes": 0,
+      "category": "general",
+      "id": "1743542429825"
+    },
+    {
+      "text": "123423141234",
+      "date": "2025-04-01T21:20:31.384Z",
+      "author": "Анонимный пользователь",
+      "likes": 0,
+      "category": "general",
+      "id": "1743542431384"
+    }
+  ]
+}

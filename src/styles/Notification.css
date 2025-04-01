@@ -1,0 +1,58 @@
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    max-width: 350px;
+    width: 100%;
+    z-index: 1000;
+    animation: slideIn 0.3s ease-out;
+  }
+  
+  .notification-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .notification.success {
+    background-color: #2ecc71;
+    color: white;
+  }
+  
+  .notification.error {
+    background-color: #e74c3c;
+    color: white;
+  }
+  
+  .notification.warning {
+    background-color: #f39c12;
+    color: white;
+  }
+  
+  .notification-message {
+    margin-right: 15px;
+  }
+  
+  .close-btn {
+    background: none;
+    border: none;
+    color: inherit;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
